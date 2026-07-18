@@ -10,7 +10,7 @@
 
 ## 我在做什么
 
-- 用 Next.js、React、TypeScript 和 Java/Spring Boot 做一些实用项目
+- 做一些感兴趣的项目
 - 记录从想法、开发到部署的完整过程
 
 ## 入口
